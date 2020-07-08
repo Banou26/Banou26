@@ -16,7 +16,6 @@ We(e)bdev from baguetteland(France), currently lead front end developer at Total
 ## Contribute
 
 - Talk to me on Discord `Banou#1230`
-- Follow me on Twitter ([@Banou26](https://twitter.com/banou26))
 
 ## Here's a baguette
 ```md
