@@ -1,4 +1,4 @@
-# Banou26(Thomas)
+# Banou(Thomas)
 
 [![NPM](https://img.shields.io/badge/npm-Banou26-red)](https://www.npmjs.com/~banou26)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fbanou26)](https://twitter.com/banou26)
