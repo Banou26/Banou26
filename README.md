@@ -6,7 +6,7 @@
 
 We(e)bdev from baguette-land(France), currently fullstack developer at Speechify
 
-- :fr: ~Living in Lyon, France (UTC+1)~ 🇨🇦 Hamilton, Canada (UTC-4)
+- :fr: Living in ~Lyon, France (UTC+1)~ 🇨🇦 Hamilton, Canada (UTC-4)
 - :milky_way: Astronomy lurker
 - :dog: Pet lover
 - :globe_with_meridians: Pushing the web to its best
