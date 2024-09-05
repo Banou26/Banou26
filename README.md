@@ -7,7 +7,7 @@
 
 Webdev from baguette-land(France), currently fullstack developer at Liqwid Labs & others
 
-- :fr: Living ~around Lyon, France (UTC+1)~ 🇨🇦 in Toronto, Canada (UTC-4) temporarily
+- :fr: Living around Lyon, France (UTC+1)
 - :milky_way: Astronomy lurker
 - :dog: Pet lover
 - :globe_with_meridians: Pushing the web to its best
