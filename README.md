@@ -5,9 +5,9 @@
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fbanou26)](https://twitter.com/banou26)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/banou1230/)
 
-Webdev from baguette-land(France), currently fullstack developer at Liqwid Labs & others
+Webdev from baguette-land(France), fullstack software engineer
 
-- :fr: Living around Lyon, France (UTC+1)
+- :fr: Living in Tokyo, Japan (UTC+9)
 - :milky_way: Astronomy lurker
 - :dog: Pet lover
 - :globe_with_meridians: Pushing the web to its best
