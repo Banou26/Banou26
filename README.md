@@ -7,7 +7,7 @@
 
 Webdev from baguette-land(France), fullstack software engineer
 
-- :fr: Living in Tokyo, Japan (UTC+9)
+- :jp: Living in Tokyo, Japan (UTC+9)
 - :milky_way: Astronomy lurker
 - :dog: Pet lover
 - :globe_with_meridians: Pushing the web to its best
